@@ -12,6 +12,7 @@ The whole process can be broken down into a few steps
 # How do you use it
 Before we begin:
 You'll need to install all the required dependencies.
+
 You'll need an iPhone that can play GamePigeon, and a Mac so you can use the QuickTime screen record.
 
 1) Connect your iPhone to the Mac and open up QuickTime, and create a new moview recording. Select your iPhone as the video source.
